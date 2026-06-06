@@ -1,0 +1,1 @@
+\textbf{Application [1]} option after running ```gradle init```
